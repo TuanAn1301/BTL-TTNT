@@ -197,7 +197,7 @@ Chỉnh sửa file `config.py` để thay đổi các tham số:
 
 ## Tác giả
 
-Hệ thống điểm danh khuôn mặt - 2024 - Nguyễn Trường Quân - Dương Tuấn An (chỉnh sửa và cải tiên)
+Hệ thống điểm danh khuôn mặt - 2024 - Nguyễn Trường Quân - Dương Tuấn An (chỉnh sửa và cải tiến)
 
 ## License
 
